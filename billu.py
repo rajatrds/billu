@@ -808,7 +808,6 @@ def update():
 if __name__=='__main__':
 	approval()
 	try:os.system('touch .prox.txt')
-	except:passimport requests,os,sys
 from concurrent.fuhttps://t.me/tebshakib07tures import ThreadPoolExecutor as ThreadPool
 
 #@useridinfobot
